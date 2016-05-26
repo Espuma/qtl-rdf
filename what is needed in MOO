@@ -1,0 +1,60 @@
+Genome
+	species identifier
+contigs/chr/plasmids
+	sequence
+CDS/trna/rrna
+	mrna
+	phenotype
+	start
+	end
+	
+
+
+
+
+protein
+	identifier
+	sequence	
+	protein interactions
+domain/swiss
+	begin
+	end
+	ident.
+
+
+
+
+
+mrna
+	translation
+	start
+	end
+	ident.
+exon
+	start
+	end
+intron
+	start
+	end
+
+
+
+
+
+qtl
+	chromosome/contig
+	start
+	end
+	trait
+	ident./ontology link.
+trait
+	MyOwnOntology
+	reference to other ontologies
+
+
+
+gramene data:
+	gff3
+	fasta
+	qtl.sql
+	vcf
